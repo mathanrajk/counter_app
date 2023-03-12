@@ -1,0 +1,29 @@
+.card{
+    width: 80%;
+    height: 30vh;
+    background-color: darkslategray;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.card1{
+    width: 80%;
+    height: 30vh;
+    background-color: white;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+button{
+    padding: 5px;
+    background-color: blue;
+    color: #ffff;   
+   margin-left: 30px;
+   border-radius: 30px;
+}
